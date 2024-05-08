@@ -1,0 +1,81 @@
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.AssemblyReference.cache
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.SuggestedBindingRedirects.cache
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\Interop.WMPLib.dll
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.ResolveComReference.cache
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr1Main08.resources
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr2WMP08.resources
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr3IrrKLang08.resources
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Properties.Resources.resources
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.GenerateResource.cache
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CoreCompileInputs.cache
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe.config
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\AP08VUPHI.pdb
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\irrKlang.NET4.dll
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\Interop.WMPLib.dll
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\bin\x64\Debug\AxInterop.WMPLib.dll
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CopyComplete
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.exe
+D:\tài liệu\lâp trinh âm thanh\AP08VUPHI\obj\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe.config
+D:\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI\bin\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI\bin\x64\Debug\irrKlang.NET4.dll
+D:\AP08VUPHI\bin\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI\bin\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.AssemblyReference.cache
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.SuggestedBindingRedirects.cache
+D:\AP08VUPHI\obj\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.ResolveComReference.cache
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr1Main08.resources
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr2WMP08.resources
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr3IrrKLang08.resources
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Properties.Resources.resources
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.GenerateResource.cache
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CoreCompileInputs.cache
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CopyComplete
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI\obj\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\AP08VUPHI.exe.config
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\irrKlang.NET4.dll
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.AssemblyReference.cache
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.SuggestedBindingRedirects.cache
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.ResolveComReference.cache
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.Fr1Main08.resources
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.Fr2WMP08.resources
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.Fr3IrrKLang08.resources
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.Properties.Resources.resources
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.GenerateResource.cache
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.CoreCompileInputs.cache
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.csproj.CopyComplete
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI.DAHP_Animals\bin\x64\Debug\NAudio.dll
+D:\AP08VUPHI.DAHP_Animals\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe.config
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\AP08VUPHI.pdb
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\irrKlang.NET4.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\bin\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.AssemblyReference.cache
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.SuggestedBindingRedirects.cache
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\Interop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.ResolveComReference.cache
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr1Main08.resources
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr2WMP08.resources
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Fr3IrrKLang08.resources
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.Properties.Resources.resources
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.GenerateResource.cache
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CoreCompileInputs.cache
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.csproj.CopyComplete
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.exe
+D:\AP08VUPHI.DAHP_Animals\AP08VUPHI\obj\x64\Debug\AP08VUPHI.pdb
